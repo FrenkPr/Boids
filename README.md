@@ -1,5 +1,5 @@
 # Boids
-Boids 2nd project realized during AIV 1st year.
+Boids 2nd project realized during AIV 1st year.<br/>
 All rights reserved to AIV company.
 
 # Short description
